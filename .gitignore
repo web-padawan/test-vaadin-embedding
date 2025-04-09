@@ -24,8 +24,7 @@ error-screenshots/
 src/main/frontend/generated/
 src/main/bundles
 
-webpack.generated.js
-
+vite.generated.ts
 
 # TypeScript cache
 tsconfig.tsbuildinfo
