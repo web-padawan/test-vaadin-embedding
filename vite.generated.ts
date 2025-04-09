@@ -57,7 +57,7 @@ const statsFolder = path.resolve(__dirname, devBundle ? settings.devBundleStatsO
 const statsFile = path.resolve(statsFolder, 'stats.json');
 const bundleSizeFile = path.resolve(statsFolder, 'bundle-size.html');
 const nodeModulesFolder = path.resolve(__dirname, 'node_modules');
-const webComponentTags = 'button-view-wc';
+const webComponentTags = 'my-counter';
 
 const projectIndexHtml = path.resolve(frontendFolder, 'index.html');
 
